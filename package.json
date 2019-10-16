@@ -1,0 +1,34 @@
+{
+  "name": "emotion-pure",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "license": "BSD-3-Clause",
+  "description": "Pure.css for emotion CSS in JS library",
+  "typings": "dist/index.d.ts",
+  "author": "KATO natsuhiko <kato@natsuhiko.jp>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natsuhikok/emotion-pure.git"
+  },
+  "homepage": "https://github.com/natsuhikok/emotion-pure#readme",
+  "keywords": [
+    "emotion",
+    "normalize",
+    "css",
+    "styles",
+    "react",
+    "css-in-js",
+    "pure",
+    "purecss"
+  ],
+  "devDependencies": {
+    "@emotion/core": "^10.0.21",
+    "@types/react": "^16.9.9",
+    "purecss": "^1.0.1",
+    "react": "^16.10.2",
+    "typescript": "^3.6.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
