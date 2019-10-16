@@ -2,7 +2,7 @@
   "name": "emotion-pure",
   "version": "0.0.1",
   "main": "dist/index.js",
-  "license": "BSD-3-Clause",
+  "license": "BSD",
   "description": "Pure.css for emotion CSS in JS library",
   "typings": "dist/index.d.ts",
   "author": "KATO natsuhiko <kato@natsuhiko.jp>",
